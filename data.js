@@ -4,24 +4,29 @@ const DETAIL_DATA = {
     "badge": "Tarihi Yerler",
     "items": [
         {
-            "title": "Tarihi Eser 1 - Ankara",
-            "desc": "Ankara şehrinin köklü geçmişini yansıtan simge yapı."
+            "category": "Popüler Nokta 1",
+            "title": "Önemli Mekan 1 - Ankara",
+            "desc": "Ankara şehrinin en çok ziyaret edilen gözde lokasyonlarından biri."
         },
         {
-            "title": "Tarihi Eser 2 - Ankara",
-            "desc": "Yüzyıllık geçmişe sahip antik kalıntı ve müze."
+            "category": "Popüler Nokta 2",
+            "title": "Önemli Mekan 2 - Ankara",
+            "desc": "Tarihi ve kültürel dokusuyla büyüleyen özel bir nokta."
         },
         {
-            "title": "Tarihi Eser 3 - Ankara",
-            "desc": "Bölgenin tarihi dokusunu gözler önüne seren yapı."
+            "category": "Popüler Nokta 3",
+            "title": "Önemli Mekan 3 - Ankara",
+            "desc": "Gezginlerin rotasından eksik etmediği popüler bir durak."
         },
         {
-            "title": "Tarihi Eser 4 - Ankara",
-            "desc": "Mimari özellikleriyle dikkat çeken eski eser."
+            "category": "Popüler Nokta 4",
+            "title": "Önemli Mekan 4 - Ankara",
+            "desc": "Mimari ve doğal güzellikleriyle göz kamaştıran bölge."
         },
         {
-            "title": "Tarihi Eser 5 - Ankara",
-            "desc": "Şehrin kültürel mirasını temsil eden tarihi nokta."
+            "category": "Popüler Nokta 5",
+            "title": "Önemli Mekan 5 - Ankara",
+            "desc": "Ankara keşif turunun vazgeçilmez simgelerinden biri."
         }
     ]
 };
