@@ -1,0 +1,31 @@
+{
+    "title": "Ankara Tarihi Yerler Rehberi",
+    "description": "Ankara şehrindeki en öne çıkan tarihi yerler ve popüler noktalar.",
+    "category": [
+        {
+            "title": "Önemli Mekan 1 - Ankara",
+            "desc": "Ankara şehrinde mutlaka görülmesi gereken gözde konum.",
+            "link": "#"
+        },
+        {
+            "title": "Önemli Mekan 2 - Ankara",
+            "desc": "Tarihi, kültürel ve sosyal dokusuyla öne çıkan popüler mekan.",
+            "link": "#"
+        },
+        {
+            "title": "Önemli Mekan 3 - Ankara",
+            "desc": "Ziyaretçilerin rotasından eksik etmediği atmosferik nokta.",
+            "link": "#"
+        },
+        {
+            "title": "Önemli Mekan 4 - Ankara",
+            "desc": "Şehrin mimarisini ve ruhunu yansıtan özel bölge.",
+            "link": "#"
+        },
+        {
+            "title": "Önemli Mekan 5 - Ankara",
+            "desc": "Ankara gezisinde keşfedilmesi gereken 5. simge nokta.",
+            "link": "#"
+        }
+    ]
+}
